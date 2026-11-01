@@ -1,0 +1,2 @@
+Pillow>=11.2.1,<13; sys_platform == "win32"
+uiautomation==2.0.29; sys_platform == "win32"

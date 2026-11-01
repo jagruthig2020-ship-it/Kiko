@@ -1,0 +1,5 @@
+KIKO unified local agent — Spotify/Telugu bug fix.
+Files: apps.py, server.py
+Apply into existing inner KIKO directory containing apps.py and server.py. Back up first.
+Opening a registered installed app does not call Ollama.
+For app-specific navigation, local vision remains optional and hardware-dependent.
